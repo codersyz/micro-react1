@@ -26,8 +26,8 @@ function App() {
         <nav>
           <NavLink to="/">首页</NavLink>
           <NavLink to="/center">个人</NavLink>
-          <NavLink to="/about">关于</NavLink>
-          <NavLink to="/app-react">关于1</NavLink>
+          <NavLink to="/about">关于</NavLink><br></br>
+          <NavLink to="/app-react">微应用页面</NavLink>
         </nav>
 
         <Routes>
